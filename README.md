@@ -12,4 +12,4 @@ Homework assignments for the advanced ML course at Chalmers University, covering
 - Function approximation with tanh activation
 
 ## Stack
-- Python, NumPy, Matplotlib
+- Python, NumPy, Matplotlib 
